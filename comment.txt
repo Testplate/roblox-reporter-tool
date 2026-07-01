@@ -1,0 +1,5 @@
+I am reporting this experience due to the presence of an in-game alcohol consumption system located in a hidden map area reportedly named “KLUB.” Within this area, players are able to interact with wine bottle meshes and trigger a “Drink” animation, allowing avatars to simulate alcohol consumption.
+
+This mechanic may normalize or glamorize alcohol use in a child-accessible environment. The placement of the system in a hidden or less visible area suggests it may be intentionally obscured from general gameplay while still being accessible to users. If the animation and consumable wine assets are functional, this effectively promotes simulated drinking behavior and exposes minors to alcohol-related roleplay content.
+
+Under the Online Safety Act 2023 Section 12 and Section 60, this warrants urgent moderation review for alcohol promotion, hidden gameplay mechanics involving substance simulation, and potential child-safety risks through normalization of drinking behavior in-game.
