@@ -41,7 +41,7 @@ Populate the following text files in the root directory:
 Run the script using Python:
 
 ```bash
-python roblox_reporter.py
+python main.py
 ```
 
 1. **Connection Mode**: If proxies are detected, you will be prompted to enable or disable Proxy Mode.
@@ -54,3 +54,4 @@ This tool is provided for **educational and research purposes only**. It is shar
 
 ---
 **Made by Rio**
+**discord.gg/removal**
